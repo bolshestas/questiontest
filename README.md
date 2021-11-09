@@ -1,7 +1,7 @@
 # Questiontest
 
 ``` bash
-# python 3.10.0
+# Python 3.10.0
 # Django 3.2.8
 ```
 
