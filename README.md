@@ -4,6 +4,6 @@
 
 # launching the application
 # mysite/
-#python manage.py runserver
+### python manage.py runserver
 
 ```
